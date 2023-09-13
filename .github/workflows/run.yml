@@ -11,7 +11,7 @@ jobs:
       - name: Generate README
         uses: ePlus-DEV/weather-forecast@v1.0.5
         with:
-          city: HoChiMinh
+          city: Saigon
           days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: 'README.md.template'
