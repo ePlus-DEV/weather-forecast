@@ -146,7 +146,7 @@ jobs:
 
 #### Install
 ```shell
-go install https://github.com/huantt/weather-forecast
+go install https://github.com/ePlus-DEV/weather-forecast
 ```
 
 #### Run
