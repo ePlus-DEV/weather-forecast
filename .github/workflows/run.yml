@@ -22,5 +22,5 @@ jobs:
           git config user.name David Nguyen
           git config user.email h250694@gmail.com
           git add .
-          git commit -m "update"
+          git commit -m "update weather $(date +'%Y-%m-%d')"
           git push origin main
