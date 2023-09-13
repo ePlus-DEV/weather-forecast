@@ -11,6 +11,7 @@ jobs:
       - name: Generate README
         uses: ePlus-DEV/weather-forecast@v1.0.5
         with:
+          timezoneLinux: "Asia/Ho_Chi_Minh"
           city: Saigon
           days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
