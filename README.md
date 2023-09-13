@@ -112,7 +112,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: huantt/weather-forecast@v1.0.5
+              uses: ePlus-DEV/weather-forecast@v1.0.5
               with:
               city: HaNoi
               days: 7

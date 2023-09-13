@@ -2,9 +2,9 @@ package weatherapi
 
 import (
 	"context"
-	"github.com/huantt/weather-forecast/model"
-	"github.com/huantt/weather-forecast/pkg/utils"
-	"github.com/huantt/weather-forecast/pkg/weatherapi_com"
+	"github.com/ePlus-DEV/weather-forecast/model"
+	"github.com/ePlus-DEV/weather-forecast/pkg/utils"
+	"github.com/ePlus-DEV/weather-forecast/pkg/weatherapi_com"
 	"strings"
 	"time"
 )

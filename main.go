@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/huantt/weather-forecast/cmd"
+	"github.com/ePlus-DEV/weather-forecast/cmd"
 	"github.com/spf13/cobra"
 	"log/slog"
 	"os"

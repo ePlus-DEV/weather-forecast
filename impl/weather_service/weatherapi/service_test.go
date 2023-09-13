@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"encoding/json"
 	"fmt"
-	"github.com/huantt/weather-forecast/pkg/weatherapi_com"
+	"github.com/ePlus-DEV/weather-forecast/pkg/weatherapi_com"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )
