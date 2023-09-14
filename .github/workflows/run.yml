@@ -2,6 +2,9 @@ name: "Cronjob"
 on:
   schedule:
     - cron: '*/5 * * * *'
+  push:
+    branches:
+      - 'main'
 jobs:
   update-weather:
     permissions: write-all
