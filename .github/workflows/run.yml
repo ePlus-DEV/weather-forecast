@@ -21,5 +21,5 @@ jobs:
           git config user.name David Nguyen
           git config user.email h250694@gmail.com
           git add .
-          git commit -m "update weather Ho Chi Minh ☁️🌤️⛈️🌩️🌧️ ($(TZ="Asia/Ho_Chi_Minh" date +'%Y-%m-%d %H:%M:%S))"
+          git commit -m "update weather Ho Chi Minh ☁️🌤️⛈️🌩️🌧️ ($(TZ="Asia/Ho_Chi_Minh" date +'%Y-%m-%d %H:%M:%S'))"
           git push origin main
