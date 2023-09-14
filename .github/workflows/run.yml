@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: ePlus-DEV/weather-forecast@v1.0.5
+        uses: ePlus-DEV/weather-forecast@v1.0.6
         with:
           city: Saigon
           days: 7
@@ -21,7 +21,7 @@ jobs:
           out-file: 'README.md'
       - name: Commit
         run: |
-          git config user.name David Nguyen
+          git config user.name "David Nguyen"
           git config user.email h250694@gmail.com
           git add .
           git commit -m "update weather Ho Chi Minh ☁️🌤️⛈️🌩️🌧️ ($(TZ="Asia/Ho_Chi_Minh" date +'%Y-%m-%d %H:%M:%S'))"
