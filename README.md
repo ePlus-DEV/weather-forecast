@@ -29,7 +29,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>9 kph</td><td>12.2 kph</td><td>11.2 kph</td><td>12.2 kph</td><td>14.8 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>15.8 kph</td><td>13 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.1 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4.7 kph</td>
+        <td>4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>9 kph</td><td>12.2 kph</td><td>15.1 kph</td><td>12.2 kph</td><td>14.8 kph</td><td>19.1 kph</td><td>18.4 kph</td><td>15.8 kph</td><td>13 kph</td><td>8.6 kph</td><td>8.3 kph</td><td>6.1 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>4.7 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-09-14T03:42:15Z*
+*Updated at: 2023-09-14T03:51:11Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
