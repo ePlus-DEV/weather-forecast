@@ -29,7 +29,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4.3 kph</td><td>4 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>2.9 kph</td><td>5.4 kph</td><td>10.4 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>28.1 kph</td><td>14 kph</td><td>13 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.8 kph</td>
+        <td>4.3 kph</td><td>4 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>2.9 kph</td><td>5.4 kph</td><td>10.4 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>22 kph</td><td>14 kph</td><td>13 kph</td><td>10.1 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>6.5 kph</td><td>7.2 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Moderate rain
 </table>
 
 
-*Updated at: 2023-09-15T08:39:59Z*
+*Updated at: 2023-09-15T08:48:59Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
