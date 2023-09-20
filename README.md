@@ -3,9 +3,9 @@
 
 `Saigon, Vietnam - 20/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Moderate rain
+Patchy rain possible
 
 </div>
 
@@ -29,7 +29,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.1 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>13 kph</td><td>7.2 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td>
+        <td>6.1 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>9 kph</td><td>7.2 kph</td><td>11.5 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13 kph</td><td>13.3 kph</td><td>12.2 kph</td><td>10.1 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td>
     </tr>
 </table>
 
@@ -44,23 +44,23 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Patchy rain possible</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain possible</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 -  34.3 °C</td><td>25.2 -  32.9 °C</td><td>25.1 -  34 °C</td>
+        <td>25.5 -  33.9 °C</td><td>25 -  32.9 °C</td><td>25.3 -  33.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14.8 kph</td><td>11.9 kph</td><td>15.1 kph</td>
+        <td>13.3 kph</td><td>11.9 kph</td><td>14.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-09-20T05:12:38Z*
+*Updated at: 2023-09-20T05:26:25Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
