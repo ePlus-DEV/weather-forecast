@@ -29,7 +29,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>4 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>11.2 kph</td>
+        <td>7.9 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>4 kph</td><td>4 kph</td><td>3.2 kph</td><td>4.3 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>7.6 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>11.5 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Heavy rain
 </table>
 
 
-*Updated at: 2023-09-22T23:03:03Z*
+*Updated at: 2023-09-22T23:18:15Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
