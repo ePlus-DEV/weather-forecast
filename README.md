@@ -3,9 +3,9 @@
 
 `Saigon, Vietnam - 23/09/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Heavy rain
+Moderate rain
 
 </div>
 
@@ -25,11 +25,11 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 °C</td><td>25.2 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25 °C</td><td>25 °C</td><td>25.1 °C</td><td>26.1 °C</td><td>27.3 °C</td><td>29 °C</td><td>30.1 °C</td><td>31.2 °C</td><td>31.6 °C</td><td>30.5 °C</td><td>30.7 °C</td><td>30.5 °C</td><td>29.8 °C</td><td>28.6 °C</td><td>27 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.8 °C</td>
+        <td>25.3 °C</td><td>25.2 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25 °C</td><td>25 °C</td><td>25.1 °C</td><td>26.1 °C</td><td>27.3 °C</td><td>29 °C</td><td>30.1 °C</td><td>31.2 °C</td><td>31.6 °C</td><td>30.5 °C</td><td>30.7 °C</td><td>30.5 °C</td><td>29.8 °C</td><td>28.6 °C</td><td>28 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.9 °C</td><td>25.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.9 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>7.9 kph</td>
+        <td>7.9 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>4.7 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>3.6 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
@@ -44,23 +44,23 @@ Heavy rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Moderate rain</td><td width="200px">Heavy rain</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 -  31.5 °C</td><td>24.3 -  30.1 °C</td><td>24.1 -  26.5 °C</td>
+        <td>25 -  31.6 °C</td><td>24.4 -  30.2 °C</td><td>24 -  27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>18 kph</td><td>18.7 kph</td>
+        <td>9.7 kph</td><td>16.6 kph</td><td>18 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-09-23T11:15:12Z*
+*Updated at: 2023-09-23T11:24:09Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
