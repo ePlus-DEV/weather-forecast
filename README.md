@@ -25,11 +25,11 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.8 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.5 °C</td><td>26.2 °C</td><td>27.3 °C</td><td>28.2 °C</td><td>32 °C</td><td>30.6 °C</td><td>31.1 °C</td><td>31.2 °C</td><td>30.5 °C</td><td>29.8 °C</td><td>28.9 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td>
+        <td>25.8 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>25.5 °C</td><td>26.2 °C</td><td>27.3 °C</td><td>28.2 °C</td><td>33 °C</td><td>30.6 °C</td><td>31.1 °C</td><td>31.2 °C</td><td>30.5 °C</td><td>29.8 °C</td><td>28.9 °C</td><td>27.9 °C</td><td>27.5 °C</td><td>27.1 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>3.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.8 kph</td>
+        <td>5 kph</td><td>6.8 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>8.6 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>9 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>12.6 kph</td><td>12.2 kph</td><td>10.4 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-10-08T04:38:59Z*
+*Updated at: 2023-10-08T04:48:27Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
