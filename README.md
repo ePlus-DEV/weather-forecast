@@ -52,15 +52,15 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.9 -  29.6 °C</td><td>24.2 -  25.3 °C</td><td>24 -  30.5 °C</td>
+        <td>25.1 -  29 °C</td><td>24.2 -  26.2 °C</td><td>23.9 -  29.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>7.6 kph</td><td>8.3 kph</td><td>9.4 kph</td>
+        <td>9 kph</td><td>9.7 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-10-15T11:32:37Z*
+*Updated at: 2023-10-15T11:41:33Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
