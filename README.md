@@ -1,7 +1,7 @@
 ## Today's Weather
 <div align="center">
 
-`Saigon, Vietnam - 26/10/2023`
+`Ho Chi Minh City, Vietnam - 26/10/2023`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
@@ -61,6 +61,6 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-10-26T13:43:50Z*
+*Updated at: 2023-10-26T13:48:05Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
