@@ -28,7 +28,7 @@ func formatTime(date time.Time) string {
 }
 
 func currentHour(timezone string) string {
-	loc, _ := time.LoadLocation(timezone)
+	_ := time.LoadLocation(timezone)
 	currentTime := time.Now()
     return currentTime.Format("15")
 }
