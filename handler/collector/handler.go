@@ -50,6 +50,7 @@ func generateReadme(weathers []model.Weather, readmeTemplate string, templates .
 			"formatDate": formatDate,
 			"formatHour": formatHour,
 			"formatTime": formatTime,
+			"formatHourOnly": formatHourOnly,
 			"currentHour": currentHour,
 		}).
 		Parse(readmeTemplate)
