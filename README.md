@@ -13,127 +13,7 @@ Patchy rain possible
 <table>
     <tr>
         <th>Hour</th>
-        <td>          
-            
-            
-                00:00
-            
-            </td><td>          
-            
-            
-                01:00
-            
-            </td><td>          
-            
-            
-                02:00
-            
-            </td><td>          
-            
-            
-                03:00
-            
-            </td><td>          
-            
-            
-                04:00
-            
-            </td><td>          
-            
-            
-                05:00
-            
-            </td><td>          
-            
-            
-                06:00
-            
-            </td><td>          
-            
-            
-                07:00
-            
-            </td><td>          
-            
-            
-                08:00
-            
-            </td><td>          
-            
-            
-                09:00
-            
-            </td><td>          
-            
-            
-                10:00
-            
-            </td><td>          
-            
-            
-                11:00
-            
-            </td><td>          
-            
-            
-                12:00
-            
-            </td><td>          
-            
-            
-                13:00
-            
-            </td><td>          
-            
-            
-                14:00
-            
-            </td><td>          
-            
-            
-                <strong>15:00</strong>
-            
-            </td><td>          
-            
-            
-                16:00
-            
-            </td><td>          
-            
-            
-                17:00
-            
-            </td><td>          
-            
-            
-                18:00
-            
-            </td><td>          
-            
-            
-                19:00
-            
-            </td><td>          
-            
-            
-                20:00
-            
-            </td><td>          
-            
-            
-                21:00
-            
-            </td><td>          
-            
-            
-                22:00
-            
-            </td><td>          
-            
-            
-                23:00
-            
-            </td>
+        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -181,6 +61,6 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-10-26T15:04:33Z*
+*Updated at: 2023-10-26T15:07:08Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
