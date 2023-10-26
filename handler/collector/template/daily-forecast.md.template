@@ -2,33 +2,19 @@
 <table>
     <tr>
         <th>Date</th>
-        {{ range $i, $weather := . -}}
-            <td>{{ formatDate $weather.StartTime $weather.Timezone}}</td>
-        {{- end }}
-    </tr>
-    <tr>
         <th>Weather</th>
-        {{ range $i, $weather := . -}}
-            <td><img src="{{ $weather.Icon}}"/></td>
-        {{- end }}
-    </tr>
-    <tr>
         <th>Condition</th>
-        {{ range $i, $weather := . -}}
-            <td width="200px">{{ $weather.Condition}}</td>
-        {{- end }}
-    </tr>
-    <tr>
         <th>Temperature</th>
-        {{ range $i, $weather := . -}}
-            <td>{{ $weather.MinTempC }} -  {{ $weather.MaxTempC}} °C</td>
-        {{- end }}
-    </tr>
-    <tr>
         <th>Wind</th>
-        {{ range $i, $weather := . -}}
-            <td>{{ $weather.AvgWindKph}} kph</td>
-        {{- end }}
     </tr>
-</table>
+    {{- range $i, $weather := . -}}
+    <tr>
+        <td>{{ formatDate $weather.StartTime $weather.Timezone }}</td>
+        <td><img src="{{ $weather.Icon }}" alt="Weather Icon"></td>
+        <td width="200px">{{ $weather.Condition }}</td>
+        <td>{{ $weather.MinTempC }} - {{ $weather.MaxTempC }} °C</td>
+        <td>{{ $weather.AvgWindKph }} kph</td>
+    </tr>
+    {{- end }}
+</table}
 {{end}}
