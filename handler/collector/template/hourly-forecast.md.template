@@ -12,9 +12,9 @@
         <td>
             {{ $formattedHour := formatHourOnly $weather.StartTime $weather.Timezone }}
             {{ if eq $formattedHour (currentHour) }}
-                <strong>{{ formattedHour $weather.StartTime $weather.Timezone}}</strong>
+                <strong>{{ formatHour $weather.StartTime $weather.Timezone}}</strong>
             {{ else }}
-                {{ formattedHour $weather.StartTime $weather.Timezone}}
+                {{ formatHour $weather.StartTime $weather.Timezone}}
             {{ end }}
         </td>
         <td><img src="{{ $weather.Icon }}" alt="{{ $weather.Condition }}"></td>
