@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate README
-        uses: ePlus-DEV/weather-forecast@v1.0.8
+        uses: ePlus-DEV/weather-forecast@v1.0.7
         with:
           city: 'Ho Chi Minh City'
           days: 7
