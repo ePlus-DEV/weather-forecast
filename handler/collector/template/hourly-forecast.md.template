@@ -3,14 +3,12 @@
     <tr>
         <th>Hour</th>
         {{ range $i, $weather := . -}}
-            <td>
-                {{ $formattedHour := formatHourOnly $weather.StartTime $weather.Timezone }}
-                {{ if eq $formattedHour (currentHour $weather.Timezone) }}
-                    *{{ formatHour $weather.StartTime $weather.Timezone}}*
-                {{ else }}
-                    {{ formatHour $weather.StartTime $weather.Timezone}}
-                {{ end }}
-            </div>
+            {{ $formattedHour := formatHourOnly $weather.StartTime $weather.Timezone }}
+            {{ if eq $formattedHour (currentHour $weather.Timezone) }}
+                <td>*{{ formatHour $weather.StartTime $weather.Timezone}}*</td>
+            {{ else }}
+                <td>{{ formatHour $weather.StartTime $weather.Timezone}}</div>
+            {{ end }}
         {{- end }}
     </tr>
     <tr>
