@@ -16,5 +16,5 @@
         <td>{{ $weather.AvgWindKph }} kph</td>
     </tr>
     {{- end }}
-</table}
+</table>
 {{end}}
