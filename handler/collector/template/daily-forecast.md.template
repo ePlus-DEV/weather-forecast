@@ -10,11 +10,11 @@
     {{- range $i, $weather := . -}}
     <tr>
         <td>{{ formatDate $weather.StartTime $weather.Timezone }}</td>
-        <td><img src="{{ $weather.Icon }}" alt="Weather Icon"></td>
+        <td><img src="{{ $weather.Icon }}" alt="{{ $weather.Condition }}"></td>
         <td width="200px">{{ $weather.Condition }}</td>
         <td>{{ $weather.MinTempC }} - {{ $weather.MaxTempC }} °C</td>
         <td>{{ $weather.AvgWindKph }} kph</td>
     </tr>
     {{- end }}
-</table}
+</table>
 {{end}}

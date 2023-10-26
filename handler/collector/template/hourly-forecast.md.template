@@ -9,8 +9,14 @@
     </tr>
     {{- range $i, $weather := . -}}
     <tr>
-        <td>{{ formatHour $weather.StartTime $weather.Timezone}}</td>
-        <td><img src="{{ $weather.Icon }}" alt="Weather Icon"></td>
+        <td>{{ $formattedHour := formatHourOnly $weather.StartTime $weather.Timezone }}
+            {{ if eq $formattedHour (currentHour) }}
+                <strong>{{ formatHour $weather.StartTime $weather.Timezone}}</strong>
+            {{ else }}
+                {{ formatHour $weather.StartTime $weather.Timezone}}
+            {{ end }}
+        </td>
+        <td><img src="{{ $weather.Icon }}" alt="{{ $weather.Condition }}"></td>
         <td width="200px">{{ $weather.Condition }}</td>
         <td>{{ $weather.AvgTempC }} °C</td>
         <td>{{ $weather.AvgWindKph }} kph</td>
