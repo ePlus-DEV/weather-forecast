@@ -13,7 +13,127 @@ Patchy rain possible
 <table>
     <tr>
         <th>Hour</th>
-        <td>00:00</td><td>01:00</td><td>02:00</td><td>03:00</td><td>04:00</td><td>05:00</td><td>06:00</td><td>07:00</td><td>08:00</td><td>09:00</td><td>10:00</td><td>11:00</td><td>12:00</td><td>13:00</td><td>14:00</td><td>15:00</td><td>16:00</td><td>17:00</td><td>18:00</td><td>19:00</td><td>20:00</td><td>21:00</td><td>22:00</td><td>23:00</td>
+        <td>
+                
+                
+                    00:00
+                
+            </div><td>
+                
+                
+                    01:00
+                
+            </div><td>
+                
+                
+                    02:00
+                
+            </div><td>
+                
+                
+                    03:00
+                
+            </div><td>
+                
+                
+                    04:00
+                
+            </div><td>
+                
+                
+                    05:00
+                
+            </div><td>
+                
+                
+                    06:00
+                
+            </div><td>
+                
+                
+                    07:00
+                
+            </div><td>
+                
+                
+                    08:00
+                
+            </div><td>
+                
+                
+                    09:00
+                
+            </div><td>
+                
+                
+                    10:00
+                
+            </div><td>
+                
+                
+                    11:00
+                
+            </div><td>
+                
+                
+                    12:00
+                
+            </div><td>
+                
+                
+                    13:00
+                
+            </div><td>
+                
+                
+                    14:00
+                
+            </div><td>
+                
+                
+                    15:00
+                
+            </div><td>
+                
+                
+                    16:00
+                
+            </div><td>
+                
+                
+                    17:00
+                
+            </div><td>
+                
+                
+                    18:00
+                
+            </div><td>
+                
+                
+                    19:00
+                
+            </div><td>
+                
+                
+                    20:00
+                
+            </div><td>
+                
+                
+                    21:00
+                
+            </div><td>
+                
+                
+                    *22:00*
+                
+            </div><td>
+                
+                
+                    23:00
+                
+            </div>
     </tr>
     <tr>
         <th>Weather</th>
@@ -29,7 +149,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>6.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>13 kph</td><td>13.7 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>11.2 kph</td><td>6.1 kph</td>
+        <td>6.8 kph</td><td>6.1 kph</td><td>5.4 kph</td><td>5 kph</td><td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>10.8 kph</td><td>13 kph</td><td>13.7 kph</td><td>11.2 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>7.9 kph</td><td>9 kph</td><td>6.1 kph</td>
     </tr>
 </table>
 
@@ -61,6 +181,6 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-10-26T15:38:20Z*
+*Updated at: 2023-10-26T15:50:07Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
