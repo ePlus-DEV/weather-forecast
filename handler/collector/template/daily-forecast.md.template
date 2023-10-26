@@ -9,7 +9,7 @@
     <tr>
         <th>Weather</th>
         {{ range $i, $weather := . -}}
-            <td><img src="{{ $weather.Icon}}"/></td>
+            <td><img src="{{ $weather.Icon}}"></img></td>
         {{- end }}
     </tr>
     <tr>
