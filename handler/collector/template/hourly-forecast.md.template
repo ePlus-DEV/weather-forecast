@@ -9,7 +9,8 @@
     </tr>
     {{- range $i, $weather := . -}}
     <tr>
-        <td>{{ $formattedHour := formatHourOnly $weather.StartTime $weather.Timezone }}
+        <td>
+            {{ $formattedHour := formatHourOnly $weather.StartTime $weather.Timezone }}
             {{ if eq $formattedHour (currentHour) }}
                 <strong>{{ formatHour $weather.StartTime $weather.Timezone}}</strong>
             {{ else }}
