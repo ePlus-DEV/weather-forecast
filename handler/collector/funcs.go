@@ -27,7 +27,8 @@ func formatTime(date time.Time) string {
 	return date.Format(time.RFC3339)
 }
 
-func currentHour() string {
+func currentHour(timezone string) string {
+	loc, _ := time.LoadLocation(timezone)
 	currentTime := time.Now()
     return currentTime.Format("15")
 }
