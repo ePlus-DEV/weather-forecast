@@ -13,7 +13,7 @@ Moderate rain
 <table>
     <tr>
         <th>Hour</th>
-          <td>$${\color{red}00:00}$$</td>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>$${\color{red}01:00}$$</td>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -52,15 +52,15 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.6 -  31.5 °C</td><td>24.6 -  31.7 °C</td><td>24.5 -  33 °C</td>
+        <td>24.4 -  32 °C</td><td>24.6 -  31.8 °C</td><td>24.6 -  32.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>12.6 kph</td><td>11.9 kph</td>
+        <td>7.9 kph</td><td>10.4 kph</td><td>11.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-11-03T17:52:21Z*
+*Updated at: 2023-11-03T18:07:14Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
