@@ -52,15 +52,15 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.2 -  32.7 °C</td><td>23.8 -  31.5 °C</td><td>23.5 -  31.9 °C</td>
+        <td>24.2 -  32.9 °C</td><td>23.7 -  32.2 °C</td><td>23.6 -  31.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>9 kph</td><td>8.3 kph</td>
+        <td>15.5 kph</td><td>9.4 kph</td><td>8.6 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-11-12T11:26:11Z*
+*Updated at: 2023-11-12T11:35:31Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
