@@ -29,7 +29,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4 kph</td><td>5 kph</td><td>6.8 kph</td><td>9 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>13 kph</td><td>13 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>5.8 kph</td>
+        <td>4 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>7.6 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>4 kph</td><td>5 kph</td><td>6.8 kph</td><td>9 kph</td><td>10.8 kph</td><td>12.6 kph</td><td>11.2 kph</td><td>13 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>6.8 kph</td><td>5.8 kph</td>
     </tr>
 </table>
 
@@ -52,15 +52,15 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.7 -  32.7 °C</td><td>23.6 -  32.4 °C</td><td>24 -  32.2 °C</td>
+        <td>23.7 -  32.8 °C</td><td>23.7 -  32.3 °C</td><td>24.1 -  33.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>14.4 kph</td><td>14 kph</td>
+        <td>14.8 kph</td><td>12.6 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-12-07T11:44:25Z*
+*Updated at: 2023-12-07T11:53:20Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
