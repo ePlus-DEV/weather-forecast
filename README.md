@@ -29,7 +29,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>4 kph</td><td>4 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>5 kph</td><td>5.4 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>8.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>6.8 kph</td>
+        <td>4 kph</td><td>4 kph</td><td>4.7 kph</td><td>6.8 kph</td><td>9 kph</td><td>8.3 kph</td><td>7.6 kph</td><td>5.4 kph</td><td>4.3 kph</td><td>3.6 kph</td><td>5 kph</td><td>5.4 kph</td><td>9 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.3 kph</td><td>8.6 kph</td><td>12.2 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>6.8 kph</td>
     </tr>
 </table>
 
@@ -52,15 +52,15 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.3 -  33.5 °C</td><td>24.5 -  34.8 °C</td><td>24.1 -  33.1 °C</td>
+        <td>24.3 -  34.1 °C</td><td>24.5 -  34.9 °C</td><td>23.7 -  33.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.2 kph</td><td>18.7 kph</td><td>14 kph</td>
+        <td>12.2 kph</td><td>19.8 kph</td><td>13.7 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2023-12-13T05:43:22Z*
+*Updated at: 2023-12-13T05:52:09Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
