@@ -25,11 +25,11 @@ Partly cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>25.1 °C</td><td>27 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.2 °C</td><td>33.2 °C</td><td>34 °C</td><td>34.3 °C</td><td>31.7 °C</td><td>29.1 °C</td><td>28.8 °C</td><td>27.8 °C</td><td>30 °C</td><td>26.7 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.5 °C</td>
+        <td>25.4 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>25.1 °C</td><td>27 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.2 °C</td><td>33.2 °C</td><td>34 °C</td><td>34.3 °C</td><td>31.7 °C</td><td>29.1 °C</td><td>28.8 °C</td><td>27.8 °C</td><td>29 °C</td><td>26.7 °C</td><td>26.1 °C</td><td>25.8 °C</td><td>25.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>14.8 kph</td><td>9 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>9.4 kph</td>
+        <td>8.3 kph</td><td>7.2 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>9.4 kph</td><td>11.5 kph</td><td>11.2 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>6.8 kph</td><td>7.2 kph</td><td>12.6 kph</td><td>13.3 kph</td><td>14.8 kph</td><td>11.2 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>11.5 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Partly cloudy
 </table>
 
 
-*Updated at: 2023-12-16T12:42:05Z*
+*Updated at: 2023-12-16T12:56:12Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
