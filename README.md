@@ -25,7 +25,7 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>24.6 °C</td><td>26.5 °C</td><td>28.7 °C</td><td>31 °C</td><td>32.5 °C</td><td>33.7 °C</td><td>34.3 °C</td><td>34.6 °C</td><td>34.1 °C</td><td>31.6 °C</td><td>29.6 °C</td><td>28.5 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.4 °C</td>
+        <td>25.1 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.3 °C</td><td>24.1 °C</td><td>23.9 °C</td><td>23.8 °C</td><td>24.6 °C</td><td>26.5 °C</td><td>28.7 °C</td><td>32 °C</td><td>32.5 °C</td><td>33.7 °C</td><td>34.3 °C</td><td>34.6 °C</td><td>34.1 °C</td><td>31.6 °C</td><td>29.6 °C</td><td>28.5 °C</td><td>26.2 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.4 °C</td><td>25.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Patchy rain possible
 </table>
 
 
-*Updated at: 2023-12-29T03:44:48Z*
+*Updated at: 2023-12-29T03:53:36Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
