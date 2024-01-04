@@ -3,9 +3,9 @@
 
 `Ho Chi Minh City, Vietnam - 04/01/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Partly cloudy
+Sunny
 
 </div>
 
@@ -44,23 +44,23 @@ Partly cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly cloudy</td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.8 -  34.4 °C</td><td>24.1 -  33.8 °C</td><td>24.6 -  34.7 °C</td>
+        <td>23.6 -  34.1 °C</td><td>23.9 -  33.1 °C</td><td>24.3 -  33.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>16.9 kph</td><td>13.7 kph</td><td>15.8 kph</td>
+        <td>17.3 kph</td><td>12.6 kph</td><td>14 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-01-04T05:46:32Z*
+*Updated at: 2024-01-04T05:55:34Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
