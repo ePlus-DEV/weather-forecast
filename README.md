@@ -29,7 +29,7 @@ Partly cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14.4 kph</td><td>14 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>13 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>4 kph</td><td>2.9 kph</td><td>8.3 kph</td><td>14.8 kph</td><td>22.3 kph</td><td>20.2 kph</td><td>20.2 kph</td><td>20.9 kph</td><td>20.5 kph</td><td>18 kph</td><td>15.5 kph</td>
+        <td>14.4 kph</td><td>14 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.5 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>10.1 kph</td><td>10.1 kph</td><td>8.6 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>4 kph</td><td>2.9 kph</td><td>8.3 kph</td><td>14.8 kph</td><td>22.3 kph</td><td>20.2 kph</td><td>20.2 kph</td><td>20.9 kph</td><td>20.5 kph</td><td>18 kph</td><td>15.5 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Partly cloudy
 </table>
 
 
-*Updated at: 2024-01-20T22:38:54Z*
+*Updated at: 2024-01-20T22:47:58Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
