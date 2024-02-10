@@ -52,15 +52,15 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.4 -  35.7 °C</td><td>23 -  35.6 °C</td><td>23.4 -  36.3 °C</td>
+        <td>23 -  36.1 °C</td><td>22.9 -  35.4 °C</td><td>23.4 -  36.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>20.2 kph</td><td>20.9 kph</td><td>22 kph</td>
+        <td>20.5 kph</td><td>21.6 kph</td><td>22.3 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-02-10T23:29:45Z*
+*Updated at: 2024-02-10T23:38:47Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
