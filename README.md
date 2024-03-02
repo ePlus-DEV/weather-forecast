@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>26.5 °C</td><td>28.5 °C</td><td>30.7 °C</td><td>32.7 °C</td><td>34.9 °C</td><td>34 °C</td><td>37.5 °C</td><td>37.3 °C</td><td>36.4 °C</td><td>34.1 °C</td><td>32 °C</td><td>29.3 °C</td><td>27.6 °C</td><td>27.1 °C</td><td>27.1 °C</td><td>27 °C</td><td>26.7 °C</td>
+        <td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>26 °C</td><td>25.7 °C</td><td>26.5 °C</td><td>28.5 °C</td><td>30.7 °C</td><td>32.7 °C</td><td>34.9 °C</td><td>35 °C</td><td>37.5 °C</td><td>37.3 °C</td><td>36.4 °C</td><td>34.1 °C</td><td>32 °C</td><td>29.3 °C</td><td>27.6 °C</td><td>27.1 °C</td><td>27.1 °C</td><td>27 °C</td><td>26.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.4 kph</td><td>6.5 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>4 kph</td><td>4 kph</td><td>1.8 kph</td><td>10.1 kph</td><td>20.9 kph</td><td>26.6 kph</td><td>27 kph</td><td>26.3 kph</td><td>25.9 kph</td><td>26.3 kph</td><td>23.8 kph</td><td>19.4 kph</td><td>16.2 kph</td>
+        <td>9.4 kph</td><td>6.5 kph</td><td>5 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>8.3 kph</td><td>7.2 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>4 kph</td><td>3.6 kph</td><td>1.8 kph</td><td>10.1 kph</td><td>20.9 kph</td><td>26.6 kph</td><td>27 kph</td><td>26.3 kph</td><td>25.9 kph</td><td>26.3 kph</td><td>23.8 kph</td><td>19.4 kph</td><td>16.2 kph</td>
     </tr>
 </table>
 
@@ -52,15 +52,15 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.7 -  37.5 °C</td><td>25.6 -  37.1 °C</td><td>25.6 -  37.8 °C</td>
+        <td>25.8 -  37.8 °C</td><td>25.7 -  37 °C</td><td>25.6 -  37.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>27 kph</td><td>25.6 kph</td><td>25.6 kph</td>
+        <td>27.4 kph</td><td>25.6 kph</td><td>23.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-03-02T05:46:11Z*
+*Updated at: 2024-03-02T05:55:07Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
