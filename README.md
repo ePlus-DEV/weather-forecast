@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.4 °C</td><td>25 °C</td><td>26.1 °C</td><td>28.1 °C</td><td>30.5 °C</td><td>33 °C</td><td>34.9 °C</td><td>36.6 °C</td><td>38.3 °C</td><td>38.2 °C</td><td>37 °C</td><td>34.9 °C</td><td>32.9 °C</td><td>30.9 °C</td><td>29.1 °C</td><td>28.1 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.1 °C</td>
+        <td>26.9 °C</td><td>26.7 °C</td><td>26.4 °C</td><td>26.2 °C</td><td>26 °C</td><td>25.4 °C</td><td>25 °C</td><td>26.1 °C</td><td>28.1 °C</td><td>30.5 °C</td><td>34 °C</td><td>34.9 °C</td><td>36.6 °C</td><td>38.3 °C</td><td>38.2 °C</td><td>37 °C</td><td>34.9 °C</td><td>32.9 °C</td><td>30.9 °C</td><td>29.1 °C</td><td>28.1 °C</td><td>27.6 °C</td><td>27.3 °C</td><td>27.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>16.2 kph</td><td>12.6 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>19.1 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>2.9 kph</td><td>11.5 kph</td><td>23 kph</td><td>27.4 kph</td><td>27 kph</td><td>24.1 kph</td><td>23.4 kph</td><td>22.7 kph</td><td>22 kph</td><td>22 kph</td><td>21.6 kph</td>
+        <td>18.4 kph</td><td>18 kph</td><td>17.6 kph</td><td>16.2 kph</td><td>12.6 kph</td><td>10.1 kph</td><td>8.3 kph</td><td>9.4 kph</td><td>10.8 kph</td><td>10.4 kph</td><td>11.2 kph</td><td>7.9 kph</td><td>6.1 kph</td><td>2.9 kph</td><td>11.5 kph</td><td>23 kph</td><td>27.4 kph</td><td>27 kph</td><td>24.1 kph</td><td>23.4 kph</td><td>22.7 kph</td><td>22 kph</td><td>22 kph</td><td>21.6 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Sunny
 </table>
 
 
-*Updated at: 2024-03-11T03:38:02Z*
+*Updated at: 2024-03-11T03:46:46Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
