@@ -29,7 +29,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.7 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>16.9 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>13.7 kph</td><td>15.1 kph</td><td>14 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>22.7 kph</td><td>27.4 kph</td><td>29.2 kph</td><td>28.1 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>24.5 kph</td><td>23 kph</td><td>18.4 kph</td><td>15.8 kph</td>
+        <td>18.7 kph</td><td>17.3 kph</td><td>16.9 kph</td><td>16.9 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>13.7 kph</td><td>15.1 kph</td><td>14 kph</td><td>11.2 kph</td><td>8.6 kph</td><td>4 kph</td><td>3.6 kph</td><td>22.7 kph</td><td>27.4 kph</td><td>29.2 kph</td><td>28.1 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>24.5 kph</td><td>23 kph</td><td>18.4 kph</td><td>15.8 kph</td>
     </tr>
 </table>
 
@@ -52,15 +52,15 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.5 -  37.9 °C</td><td>25 -  36.8 °C</td><td>25.4 -  37.5 °C</td>
+        <td>25.4 -  35.8 °C</td><td>24.9 -  36.3 °C</td><td>24.7 -  37.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>29.2 kph</td><td>27.4 kph</td><td>27.4 kph</td>
+        <td>27 kph</td><td>26.6 kph</td><td>25.9 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-03-14T05:11:47Z*
+*Updated at: 2024-03-14T05:25:38Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
