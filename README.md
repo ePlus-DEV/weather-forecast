@@ -13,7 +13,7 @@ Sunny
 <table>
     <tr>
         <th>Hour</th>
-          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>$${\color{red}07:00}$$</td>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>$${\color{red}08:00}$$</td>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -25,11 +25,11 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>28 °C</td><td>29.5 °C</td><td>32 °C</td><td>34.4 °C</td><td>36.4 °C</td><td>38.2 °C</td><td>39.6 °C</td><td>39.9 °C</td><td>38.4 °C</td><td>35.9 °C</td><td>33.6 °C</td><td>31.1 °C</td><td>29.3 °C</td><td>28.7 °C</td><td>28.6 °C</td><td>28.4 °C</td><td>28.2 °C</td>
+        <td>26.9 °C</td><td>26.9 °C</td><td>26.7 °C</td><td>26.6 °C</td><td>26.6 °C</td><td>26.4 °C</td><td>26.3 °C</td><td>27.3 °C</td><td>30 °C</td><td>32 °C</td><td>34.4 °C</td><td>36.4 °C</td><td>38.2 °C</td><td>39.6 °C</td><td>39.9 °C</td><td>38.4 °C</td><td>35.9 °C</td><td>33.6 °C</td><td>31.1 °C</td><td>29.3 °C</td><td>28.7 °C</td><td>28.6 °C</td><td>28.4 °C</td><td>28.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.8 kph</td><td>16.2 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>18.4 kph</td><td>17.3 kph</td><td>15.8 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>17.3 kph</td><td>27.7 kph</td><td>30.6 kph</td><td>29.2 kph</td><td>25.9 kph</td><td>24.5 kph</td><td>24.8 kph</td><td>25.2 kph</td><td>25.6 kph</td><td>24.8 kph</td>
+        <td>15.8 kph</td><td>16.2 kph</td><td>17.6 kph</td><td>18.4 kph</td><td>18.4 kph</td><td>17.3 kph</td><td>15.8 kph</td><td>17.6 kph</td><td>20.2 kph</td><td>15.5 kph</td><td>13.3 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>17.3 kph</td><td>27.7 kph</td><td>30.6 kph</td><td>29.2 kph</td><td>25.9 kph</td><td>24.5 kph</td><td>24.8 kph</td><td>25.2 kph</td><td>25.6 kph</td><td>24.8 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Sunny
 </table>
 
 
-*Updated at: 2024-03-26T00:33:07Z*
+*Updated at: 2024-03-26T01:33:49Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
