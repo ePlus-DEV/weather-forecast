@@ -52,15 +52,15 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27 -  37.2 °C</td><td>26.8 -  37.7 °C</td><td>26.8 -  38.5 °C</td>
+        <td>27.7 -  37.5 °C</td><td>26.6 -  37.9 °C</td><td>27.3 -  39 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>27 kph</td><td>25.2 kph</td><td>27 kph</td>
+        <td>28.8 kph</td><td>26.3 kph</td><td>28.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-04-04T17:06:59Z*
+*Updated at: 2024-04-04T17:22:32Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
