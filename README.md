@@ -29,7 +29,7 @@ Sunny
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>15.5 kph</td><td>24.8 kph</td><td>28.4 kph</td><td>26.6 kph</td><td>25.6 kph</td><td>23.8 kph</td><td>24.8 kph</td><td>13 kph</td><td>22.7 kph</td><td>19.8 kph</td>
+        <td>14 kph</td><td>9.4 kph</td><td>8.6 kph</td><td>9.7 kph</td><td>8.6 kph</td><td>7.6 kph</td><td>8.3 kph</td><td>12.2 kph</td><td>13.3 kph</td><td>11.5 kph</td><td>9.4 kph</td><td>6.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>15.5 kph</td><td>24.8 kph</td><td>28.4 kph</td><td>26.6 kph</td><td>25.6 kph</td><td>23.8 kph</td><td>24.8 kph</td><td>15.1 kph</td><td>22.7 kph</td><td>19.8 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Sunny
 </table>
 
 
-*Updated at: 2024-04-08T14:11:31Z*
+*Updated at: 2024-04-08T14:27:53Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
