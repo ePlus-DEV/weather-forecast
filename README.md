@@ -3,9 +3,9 @@
 
 `Ho Chi Minh City, Vietnam - 08/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Patchy rain nearby
+Sunny
 
 </div>
 
@@ -29,7 +29,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.8 kph</td><td>13.3 kph</td><td>10.1 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>12.2 kph</td><td>14.4 kph</td><td>12.6 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>9.7 kph</td><td>18.7 kph</td><td>21.6 kph</td><td>25.2 kph</td><td>25.2 kph</td><td>20.2 kph</td><td>20.9 kph</td><td>19.1 kph</td><td>18 kph</td><td>19.8 kph</td><td>19.1 kph</td>
+        <td>15.8 kph</td><td>13.3 kph</td><td>10.1 kph</td><td>7.2 kph</td><td>7.2 kph</td><td>6.8 kph</td><td>7.6 kph</td><td>12.2 kph</td><td>14.4 kph</td><td>12.6 kph</td><td>10.8 kph</td><td>8.6 kph</td><td>6.1 kph</td><td>9.7 kph</td><td>18.7 kph</td><td>21.6 kph</td><td>25.2 kph</td><td>25.2 kph</td><td>13 kph</td><td>20.9 kph</td><td>19.1 kph</td><td>18 kph</td><td>19.8 kph</td><td>19.1 kph</td>
     </tr>
 </table>
 
@@ -44,23 +44,23 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.9 -  37.6 °C</td><td>26.9 -  39.9 °C</td><td>26.6 -  37 °C</td>
+        <td>26.3 -  39 °C</td><td>27 -  40.2 °C</td><td>26.3 -  39.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>25.2 kph</td><td>31.3 kph</td><td>28.1 kph</td>
+        <td>28.4 kph</td><td>31.3 kph</td><td>28.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-04-08T11:40:35Z*
+*Updated at: 2024-04-08T11:49:37Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
