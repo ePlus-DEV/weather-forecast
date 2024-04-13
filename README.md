@@ -44,23 +44,23 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.8 -  36.3 °C</td><td>26.9 -  39.3 °C</td><td>27.2 -  39.2 °C</td>
+        <td>27.8 -  36.8 °C</td><td>27 -  38.5 °C</td><td>27 -  39.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>26.3 kph</td><td>28.1 kph</td><td>27.4 kph</td>
+        <td>27 kph</td><td>27.4 kph</td><td>28.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-04-13T05:19:21Z*
+*Updated at: 2024-04-13T05:29:04Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
