@@ -1,7 +1,7 @@
 ## Today's Weather
 <div align="center">
 
-`Ho Chi Minh City, Вьетнам - 13/04/2024`
+`Ho Chi Minh City, Vietnam - 13/04/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
 
@@ -61,6 +61,6 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2024-04-13T06:50:05Z*
+*Updated at: 2024-04-13T06:58:57Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
