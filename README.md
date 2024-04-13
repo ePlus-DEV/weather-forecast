@@ -3,9 +3,9 @@
 
 `Ho Chi Minh City, Vietnam - 13/04/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/>
 
-Partly Cloudy 
+Sunny
 
 </div>
 
@@ -25,11 +25,11 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.6 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.8 °C</td><td>27.8 °C</td><td>28.8 °C</td><td>30.5 °C</td><td>32.6 °C</td><td>34.6 °C</td><td>36.5 °C</td><td>36.8 °C</td><td>33.5 °C</td><td>35 °C</td><td>34.7 °C</td><td>33.4 °C</td><td>31.8 °C</td><td>31 °C</td><td>28.9 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28.1 °C</td><td>27.8 °C</td>
+        <td>28.6 °C</td><td>28.4 °C</td><td>28.3 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>27.8 °C</td><td>27.8 °C</td><td>28.8 °C</td><td>30.5 °C</td><td>32.6 °C</td><td>34.6 °C</td><td>36.5 °C</td><td>36.8 °C</td><td>33.5 °C</td><td>35 °C</td><td>34.7 °C</td><td>33.4 °C</td><td>31.8 °C</td><td>30 °C</td><td>28.9 °C</td><td>28.5 °C</td><td>28.3 °C</td><td>28.1 °C</td><td>27.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>21.2 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>18 kph</td><td>16.9 kph</td><td>15.1 kph</td><td>13 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>14 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>16.2 kph</td><td>26.6 kph</td><td>24.1 kph</td><td>25.2 kph</td><td>24.8 kph</td><td>27 kph</td><td>16.9 kph</td><td>22.3 kph</td><td>20.5 kph</td><td>19.4 kph</td><td>18 kph</td><td>19.4 kph</td>
+        <td>21.2 kph</td><td>20.2 kph</td><td>19.1 kph</td><td>18 kph</td><td>16.9 kph</td><td>15.1 kph</td><td>13 kph</td><td>15.5 kph</td><td>15.1 kph</td><td>14 kph</td><td>12.2 kph</td><td>10.8 kph</td><td>16.2 kph</td><td>26.6 kph</td><td>24.1 kph</td><td>25.2 kph</td><td>24.8 kph</td><td>27 kph</td><td>20.2 kph</td><td>22.3 kph</td><td>20.5 kph</td><td>19.4 kph</td><td>18 kph</td><td>19.4 kph</td>
     </tr>
 </table>
 
@@ -44,23 +44,23 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.8 -  36.8 °C</td><td>27 -  38.5 °C</td><td>27 -  39.3 °C</td>
+        <td>27.8 -  36.3 °C</td><td>26.9 -  39 °C</td><td>27 -  39.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>27 kph</td><td>27.4 kph</td><td>28.4 kph</td>
+        <td>27 kph</td><td>28.8 kph</td><td>28.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-04-13T11:37:39Z*
+*Updated at: 2024-04-13T11:46:25Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
