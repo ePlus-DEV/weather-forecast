@@ -13,7 +13,7 @@ Moderate rain
 <table>
     <tr>
         <th>Hour</th>
-          <td>$${\color{red}00:00}$$</td>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>$${\color{red}01:00}$$</td>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -25,11 +25,11 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>28.4 °C</td><td>30 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.7 °C</td><td>27.8 °C</td><td>27.8 °C</td><td>29 °C</td><td>30.4 °C</td><td>31.9 °C</td><td>33.7 °C</td><td>35 °C</td><td>35.8 °C</td><td>34.4 °C</td><td>33.9 °C</td><td>34.5 °C</td><td>33.8 °C</td><td>32.5 °C</td><td>31 °C</td><td>30.1 °C</td><td>29.5 °C</td><td>29.4 °C</td><td>29.1 °C</td><td>28.8 °C</td>
+        <td>28.4 °C</td><td>29 °C</td><td>27.6 °C</td><td>27.5 °C</td><td>27.7 °C</td><td>27.8 °C</td><td>27.8 °C</td><td>29 °C</td><td>30.4 °C</td><td>31.9 °C</td><td>33.7 °C</td><td>35 °C</td><td>35.8 °C</td><td>34.4 °C</td><td>33.9 °C</td><td>34.5 °C</td><td>33.8 °C</td><td>32.5 °C</td><td>31 °C</td><td>30.1 °C</td><td>29.5 °C</td><td>29.4 °C</td><td>29.1 °C</td><td>28.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>11.9 kph</td><td>3.6 kph</td><td>9 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>13.3 kph</td><td>15.1 kph</td><td>15.5 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>16.2 kph</td><td>19.4 kph</td><td>17.6 kph</td><td>18 kph</td><td>19.4 kph</td><td>18 kph</td><td>16.6 kph</td><td>16.2 kph</td><td>16.9 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>12.6 kph</td>
+        <td>11.9 kph</td><td>6.8 kph</td><td>9 kph</td><td>9 kph</td><td>9.4 kph</td><td>9.7 kph</td><td>9.7 kph</td><td>13.3 kph</td><td>15.1 kph</td><td>15.5 kph</td><td>14.4 kph</td><td>14.4 kph</td><td>16.2 kph</td><td>19.4 kph</td><td>17.6 kph</td><td>18 kph</td><td>19.4 kph</td><td>18 kph</td><td>16.6 kph</td><td>16.2 kph</td><td>16.9 kph</td><td>15.1 kph</td><td>14.8 kph</td><td>12.6 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Moderate rain
 </table>
 
 
-*Updated at: 2024-05-16T17:58:08Z*
+*Updated at: 2024-05-16T18:20:04Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
