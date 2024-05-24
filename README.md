@@ -52,15 +52,15 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.4 -  35.7 °C</td><td>27.7 -  35.9 °C</td><td>27.3 -  35.3 °C</td>
+        <td>27.1 -  35.2 °C</td><td>27.5 -  36.5 °C</td><td>27.4 -  36.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.5 kph</td><td>18.4 kph</td><td>14.8 kph</td>
+        <td>16.2 kph</td><td>19.8 kph</td><td>14.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-05-24T05:19:39Z*
+*Updated at: 2024-05-24T05:30:58Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
