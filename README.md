@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>29.1 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>28.1 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>28.1 °C</td><td>29.4 °C</td><td>30.9 °C</td><td>32.5 °C</td><td>32 °C</td><td>35.9 °C</td><td>37.1 °C</td><td>37.7 °C</td><td>38.1 °C</td><td>37.5 °C</td><td>35.1 °C</td><td>32.6 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>30.8 °C</td><td>30.4 °C</td><td>30.1 °C</td><td>29.6 °C</td>
+        <td>29.1 °C</td><td>28.9 °C</td><td>28.3 °C</td><td>28.1 °C</td><td>28.1 °C</td><td>27.9 °C</td><td>28.1 °C</td><td>29.4 °C</td><td>30.9 °C</td><td>32.5 °C</td><td>33 °C</td><td>35.9 °C</td><td>37.1 °C</td><td>37.7 °C</td><td>38.1 °C</td><td>37.5 °C</td><td>35.1 °C</td><td>32.6 °C</td><td>31.6 °C</td><td>31.3 °C</td><td>30.8 °C</td><td>30.4 °C</td><td>30.1 °C</td><td>29.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-05-26T03:37:06Z*
+*Updated at: 2024-05-26T03:45:53Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
