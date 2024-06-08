@@ -44,23 +44,23 @@ Moderate rain
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Heavy rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>27.1 -  36.1 °C</td><td>26.4 -  31 °C</td><td>25.4 -  30.5 °C</td>
+        <td>27.1 -  37.7 °C</td><td>27.4 -  34.4 °C</td><td>25.5 -  29 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14 kph</td><td>20.2 kph</td><td>22 kph</td>
+        <td>14 kph</td><td>22.3 kph</td><td>20.5 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-06-08T11:29:40Z*
+*Updated at: 2024-06-08T11:38:29Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
