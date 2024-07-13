@@ -1,7 +1,7 @@
 ## Today's Weather
 <div align="center">
 
-`Ho Chi Minh City, Vietnam - 14/07/2024`
+`Ho Chi Minh City, Вьетнам - 14/07/2024`
 
 <img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
@@ -61,6 +61,6 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-07-13T17:47:04Z*
+*Updated at: 2024-07-13T17:55:59Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
