@@ -3,9 +3,9 @@
 
 `Ho Chi Minh City, Vietnam - 18/07/2024`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Patchy rain nearby
+Moderate rain
 
 </div>
 
@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.3 °C</td><td>26.1 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>25.1 °C</td><td>26.3 °C</td><td>27.2 °C</td><td>27.6 °C</td><td>29 °C</td><td>28.7 °C</td><td>27 °C</td><td>28 °C</td><td>29.1 °C</td><td>28 °C</td><td>26.9 °C</td><td>26 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>24.9 °C</td>
+        <td>24.3 °C</td><td>26.2 °C</td><td>24.3 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.2 °C</td><td>24.1 °C</td><td>25.1 °C</td><td>26.3 °C</td><td>27.2 °C</td><td>27.6 °C</td><td>29 °C</td><td>28.7 °C</td><td>27 °C</td><td>28 °C</td><td>29.1 °C</td><td>28 °C</td><td>26.9 °C</td><td>26 °C</td><td>25.6 °C</td><td>25.5 °C</td><td>25.4 °C</td><td>25.2 °C</td><td>24.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,23 +44,23 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
+        <td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.1 -  29.1 °C</td><td>24.2 -  26.7 °C</td><td>24 -  27.4 °C</td>
+        <td>23.9 -  29.9 °C</td><td>24.2 -  29 °C</td><td>24.1 -  27.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.4 kph</td><td>20.9 kph</td><td>18.4 kph</td>
+        <td>20.5 kph</td><td>19.8 kph</td><td>20.2 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-07-17T17:10:01Z*
+*Updated at: 2024-07-17T17:26:10Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
