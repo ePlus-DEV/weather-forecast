@@ -29,7 +29,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13.7 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>6.8 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>13.7 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>18 kph</td><td>18 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>13 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>14 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.9 kph</td>
+        <td>13.7 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>13.7 kph</td><td>11.2 kph</td><td>9.4 kph</td><td>7.9 kph</td><td>9.4 kph</td><td>13.7 kph</td><td>16.6 kph</td><td>16.9 kph</td><td>17.3 kph</td><td>18 kph</td><td>18 kph</td><td>13.7 kph</td><td>12.6 kph</td><td>13 kph</td><td>14.8 kph</td><td>13.7 kph</td><td>14 kph</td><td>13.3 kph</td><td>13.3 kph</td><td>12.6 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
@@ -61,6 +61,6 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-09-08T21:09:24Z*
+*Updated at: 2024-09-08T21:23:40Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
