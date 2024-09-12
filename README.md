@@ -25,7 +25,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.3 °C</td><td>26.1 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>26 °C</td><td>25.9 °C</td><td>26.2 °C</td><td>27 °C</td><td>27.3 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26.2 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.9 °C</td><td>25.1 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>24.9 °C</td>
+        <td>26.3 °C</td><td>26 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.9 °C</td><td>26 °C</td><td>25.9 °C</td><td>26.2 °C</td><td>27 °C</td><td>27.3 °C</td><td>26.9 °C</td><td>26.5 °C</td><td>26.2 °C</td><td>26.2 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.7 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.9 °C</td><td>25.1 °C</td><td>25.2 °C</td><td>25.1 °C</td><td>24.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Heavy rain
 </table>
 
 
-*Updated at: 2024-09-12T17:41:41Z*
+*Updated at: 2024-09-12T17:50:22Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
