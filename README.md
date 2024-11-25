@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>25.2 °C</td><td>26.9 °C</td><td>28 °C</td><td>29.2 °C</td><td>30.6 °C</td><td>31.6 °C</td><td>32.4 °C</td><td>33.1 °C</td><td>33.1 °C</td><td>32.4 °C</td><td>29.7 °C</td><td>30.1 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.6 °C</td>
+        <td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>25.2 °C</td><td>26.9 °C</td><td>28 °C</td><td>29.2 °C</td><td>30.6 °C</td><td>31.6 °C</td><td>32.4 °C</td><td>33.1 °C</td><td>33.1 °C</td><td>32.4 °C</td><td>29.7 °C</td><td>30.2 °C</td><td>26.5 °C</td><td>26.3 °C</td><td>26 °C</td><td>25.8 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,23 +44,23 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.2 -  33.1 °C</td><td>24.7 -  31 °C</td><td>23.1 -  31.1 °C</td>
+        <td>24.2 -  33.1 °C</td><td>24.6 -  30.4 °C</td><td>23.3 -  31 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.4 kph</td><td>7.9 kph</td><td>12.2 kph</td>
+        <td>8.6 kph</td><td>9 kph</td><td>10.1 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-11-25T11:31:18Z*
+*Updated at: 2024-11-25T11:41:45Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
