@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.1 °C</td><td>26.1 °C</td><td>23.6 °C</td><td>23.6 °C</td><td>23.6 °C</td><td>23.3 °C</td><td>23.1 °C</td><td>24 °C</td><td>25.7 °C</td><td>27.1 °C</td><td>27.4 °C</td><td>28 °C</td><td>29.9 °C</td><td>29.8 °C</td><td>28.9 °C</td><td>27.4 °C</td><td>26.5 °C</td><td>25.7 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.4 °C</td>
+        <td>24.1 °C</td><td>26.2 °C</td><td>23.6 °C</td><td>23.6 °C</td><td>23.6 °C</td><td>23.3 °C</td><td>23.1 °C</td><td>24 °C</td><td>25.7 °C</td><td>27.1 °C</td><td>27.4 °C</td><td>28 °C</td><td>29.9 °C</td><td>29.8 °C</td><td>28.9 °C</td><td>27.4 °C</td><td>26.5 °C</td><td>25.7 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,23 +44,23 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.1 -  29.9 °C</td><td>24.4 -  30.4 °C</td><td>23.9 -  32.2 °C</td>
+        <td>22.6 -  29.2 °C</td><td>23.9 -  30.5 °C</td><td>23.8 -  32.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.1 kph</td><td>9.4 kph</td><td>13.7 kph</td>
+        <td>7.6 kph</td><td>7.2 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-12-03T17:16:28Z*
+*Updated at: 2024-12-03T17:37:22Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
