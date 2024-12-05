@@ -13,7 +13,7 @@ Patchy rain nearby
 <table>
     <tr>
         <th>Hour</th>
-          <td>$${\color{red}00:00}$$</td>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>$${\color{red}01:00}$$</td>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -25,7 +25,7 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 °C</td><td>27.2 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.9 °C</td><td>26 °C</td><td>27.8 °C</td><td>29.8 °C</td><td>31.5 °C</td><td>32.5 °C</td><td>32.7 °C</td><td>32 °C</td><td>31.2 °C</td><td>30.3 °C</td><td>28.2 °C</td><td>26.5 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25 °C</td>
+        <td>24.8 °C</td><td>27.4 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.3 °C</td><td>24.2 °C</td><td>24.9 °C</td><td>26 °C</td><td>27.8 °C</td><td>29.8 °C</td><td>31.5 °C</td><td>32.5 °C</td><td>32.7 °C</td><td>32 °C</td><td>31.2 °C</td><td>30.3 °C</td><td>28.2 °C</td><td>26.5 °C</td><td>25.5 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25.1 °C</td><td>25 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2024-12-05T17:53:53Z*
+*Updated at: 2024-12-05T18:11:17Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
