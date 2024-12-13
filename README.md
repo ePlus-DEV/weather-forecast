@@ -25,7 +25,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.1 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>25.4 °C</td><td>24.1 °C</td><td>24.7 °C</td><td>26.4 °C</td><td>28 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>29.6 °C</td><td>30.1 °C</td><td>29.8 °C</td><td>28.2 °C</td><td>26.3 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.6 °C</td>
+        <td>25.1 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>24.2 °C</td><td>24 °C</td><td>23.9 °C</td><td>25.1 °C</td><td>24.1 °C</td><td>24.7 °C</td><td>26.4 °C</td><td>28 °C</td><td>28.4 °C</td><td>28.4 °C</td><td>29.6 °C</td><td>30.1 °C</td><td>29.8 °C</td><td>28.2 °C</td><td>26.3 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>25 °C</td><td>24.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -52,15 +52,15 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.9 -  30.1 °C</td><td>22.4 -  23.6 °C</td><td>21.5 -  27.3 °C</td>
+        <td>23.7 -  30.4 °C</td><td>22.2 -  22.9 °C</td><td>21.7 -  23.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>13 kph</td><td>11.9 kph</td><td>11.9 kph</td>
+        <td>11.2 kph</td><td>14.4 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2024-12-13T23:28:59Z*
+*Updated at: 2024-12-13T23:41:32Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
