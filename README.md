@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.5 °C</td><td>23.1 °C</td><td>22.6 °C</td><td>21.8 °C</td><td>21 °C</td><td>20.2 °C</td><td>19.7 °C</td><td>20 °C</td><td>21.7 °C</td><td>23.9 °C</td><td>25.9 °C</td><td>28.1 °C</td><td>29.8 °C</td><td>31 °C</td><td>31.8 °C</td><td>31.9 °C</td><td>31.2 °C</td><td>29.5 °C</td><td>25.6 °C</td><td>23.9 °C</td><td>25.2 °C</td><td>23.7 °C</td><td>23.3 °C</td><td>23.1 °C</td>
+        <td>23.5 °C</td><td>23.1 °C</td><td>22.6 °C</td><td>21.8 °C</td><td>21 °C</td><td>20.2 °C</td><td>19.7 °C</td><td>20 °C</td><td>21.7 °C</td><td>23.9 °C</td><td>25.9 °C</td><td>28.1 °C</td><td>29.8 °C</td><td>31 °C</td><td>31.8 °C</td><td>31.9 °C</td><td>31.2 °C</td><td>29.5 °C</td><td>25.6 °C</td><td>23.9 °C</td><td>25.3 °C</td><td>23.7 °C</td><td>23.3 °C</td><td>23.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Sunny
 </table>
 
 
-*Updated at: 2025-01-29T13:41:14Z*
+*Updated at: 2025-01-29T13:50:24Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
