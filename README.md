@@ -13,7 +13,7 @@ Sunny
 <table>
     <tr>
         <th>Hour</th>
-          <td>$${\color{red}00:00}$$</td>   <td>01:00</div>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
+          <td>00:00</div>   <td>$${\color{red}01:00}$$</td>   <td>02:00</div>   <td>03:00</div>   <td>04:00</div>   <td>05:00</div>   <td>06:00</div>   <td>07:00</div>   <td>08:00</div>   <td>09:00</div>   <td>10:00</div>   <td>11:00</div>   <td>12:00</div>   <td>13:00</div>   <td>14:00</div>   <td>15:00</div>   <td>16:00</div>   <td>17:00</div>   <td>18:00</div>   <td>19:00</div>   <td>20:00</div>   <td>21:00</div>   <td>22:00</div>   <td>23:00</div> 
     </tr>
     <tr>
         <th>Weather</th>
@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23 °C</td><td>25.1 °C</td><td>22.2 °C</td><td>21.9 °C</td><td>21.9 °C</td><td>21.9 °C</td><td>21.8 °C</td><td>22.6 °C</td><td>24.5 °C</td><td>26.9 °C</td><td>29.2 °C</td><td>31.2 °C</td><td>32.8 °C</td><td>34.1 °C</td><td>34.9 °C</td><td>35.3 °C</td><td>34.9 °C</td><td>32 °C</td><td>26.9 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.6 °C</td>
+        <td>23 °C</td><td>24.1 °C</td><td>22.2 °C</td><td>21.9 °C</td><td>21.9 °C</td><td>21.9 °C</td><td>21.8 °C</td><td>22.6 °C</td><td>24.5 °C</td><td>26.9 °C</td><td>29.2 °C</td><td>31.2 °C</td><td>32.8 °C</td><td>34.1 °C</td><td>34.9 °C</td><td>35.3 °C</td><td>34.9 °C</td><td>32 °C</td><td>26.9 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>24.9 °C</td><td>24.8 °C</td><td>24.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Sunny
 </table>
 
 
-*Updated at: 2025-02-06T17:57:57Z*
+*Updated at: 2025-02-06T18:26:01Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
