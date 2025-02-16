@@ -21,11 +21,11 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.7 °C</td><td>34.3 °C</td><td>35.6 °C</td><td>34.5 °C</td><td>33.2 °C</td><td>30.8 °C</td><td>30.7 °C</td><td>28.5 °C</td><td>27.2 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td>
+        <td>25.6 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.4 °C</td><td>24.8 °C</td><td>24.6 °C</td><td>24.6 °C</td><td>25.2 °C</td><td>26.8 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.7 °C</td><td>34.3 °C</td><td>35.6 °C</td><td>34.5 °C</td><td>29.7 °C</td><td>33.2 °C</td><td>30.7 °C</td><td>28.5 °C</td><td>27.2 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2025-02-16T08:51:42Z*
+*Updated at: 2025-02-16T08:59:31Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
