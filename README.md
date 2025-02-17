@@ -25,7 +25,7 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.8 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.8 °C</td><td>25.2 °C</td><td>25.4 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.5 °C</td><td>33.9 °C</td><td>35.3 °C</td><td>35.3 °C</td><td>34.6 °C</td><td>32.3 °C</td><td>30.2 °C</td><td>28.7 °C</td><td>27.5 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.1 °C</td>
+        <td>25.8 °C</td><td>25.5 °C</td><td>25 °C</td><td>24.6 °C</td><td>24.4 °C</td><td>24.8 °C</td><td>25.4 °C</td><td>25.4 °C</td><td>26.9 °C</td><td>28.8 °C</td><td>30.8 °C</td><td>32.5 °C</td><td>33.9 °C</td><td>35.3 °C</td><td>35.3 °C</td><td>34.6 °C</td><td>32.3 °C</td><td>30.2 °C</td><td>28.7 °C</td><td>27.5 °C</td><td>26.8 °C</td><td>26.7 °C</td><td>26.5 °C</td><td>26.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2025-02-17T23:29:51Z*
+*Updated at: 2025-02-17T23:37:58Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
