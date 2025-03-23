@@ -25,7 +25,7 @@ Sunny
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26.2 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>26 °C</td><td>27.9 °C</td><td>29.8 °C</td><td>32.2 °C</td><td>34 °C</td><td>35.4 °C</td><td>36.5 °C</td><td>37.4 °C</td><td>37 °C</td><td>34.5 °C</td><td>30.8 °C</td><td>29 °C</td><td>27.1 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.6 °C</td>
+        <td>26.2 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.3 °C</td><td>25.1 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>26 °C</td><td>27.9 °C</td><td>29.8 °C</td><td>32.2 °C</td><td>34 °C</td><td>35.4 °C</td><td>36.5 °C</td><td>37.4 °C</td><td>37 °C</td><td>34.5 °C</td><td>32.2 °C</td><td>29 °C</td><td>27.1 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -44,23 +44,23 @@ Sunny
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"></img></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"></img></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>24.8 -  37 °C</td><td>23.8 -  36.3 °C</td><td>24.3 -  34.2 °C</td>
+        <td>24.8 -  37.4 °C</td><td>23.5 -  34.1 °C</td><td>24.6 -  35 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>25.6 kph</td><td>28.1 kph</td><td>23.8 kph</td>
+        <td>25.9 kph</td><td>23.8 kph</td><td>23.4 kph</td>
     </tr>
 </table>
 
 
-*Updated at: 2025-03-23T10:33:17Z*
+*Updated at: 2025-03-23T10:42:45Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
