@@ -25,7 +25,7 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.9 °C</td><td>26.9 °C</td><td>27.3 °C</td><td>26.5 °C</td><td>26.7 °C</td><td>27.1 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>25.1 °C</td><td>24.2 °C</td><td>23.3 °C</td><td>27.1 °C</td><td>23.5 °C</td><td>23.6 °C</td><td>23.8 °C</td>
+        <td>26 °C</td><td>25.8 °C</td><td>25.7 °C</td><td>25.5 °C</td><td>25.5 °C</td><td>25.3 °C</td><td>25.3 °C</td><td>25.9 °C</td><td>26.9 °C</td><td>27.3 °C</td><td>26.5 °C</td><td>26.7 °C</td><td>27.1 °C</td><td>25 °C</td><td>24.8 °C</td><td>24.8 °C</td><td>24.7 °C</td><td>25.1 °C</td><td>24.2 °C</td><td>23.3 °C</td><td>26.4 °C</td><td>23.5 °C</td><td>23.6 °C</td><td>23.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Moderate rain
 </table>
 
 
-*Updated at: 2025-06-11T13:07:46Z*
+*Updated at: 2025-06-11T13:42:58Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
