@@ -25,7 +25,7 @@ Heavy rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>25.8 °C</td><td>27.4 °C</td><td>28.7 °C</td><td>30.3 °C</td><td>31.2 °C</td><td>32.3 °C</td><td>30.8 °C</td><td>30.5 °C</td><td>30.3 °C</td><td>29.1 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>26.9 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td>
+        <td>25 °C</td><td>25 °C</td><td>24.7 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.5 °C</td><td>24.7 °C</td><td>25.8 °C</td><td>27.4 °C</td><td>28.7 °C</td><td>30.3 °C</td><td>31.2 °C</td><td>32.1 °C</td><td>30.8 °C</td><td>30.5 °C</td><td>30.3 °C</td><td>29.1 °C</td><td>27.8 °C</td><td>27.4 °C</td><td>26.9 °C</td><td>26.4 °C</td><td>26.1 °C</td><td>25.9 °C</td><td>25.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Heavy rain
 </table>
 
 
-*Updated at: 2025-08-31T05:42:43Z*
+*Updated at: 2025-08-31T05:51:36Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
