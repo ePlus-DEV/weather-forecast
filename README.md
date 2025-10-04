@@ -21,11 +21,11 @@ Patchy rain nearby
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Light rain shower</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Cloudy </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>27.2 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>25.7 °C</td><td>27.4 °C</td><td>29.2 °C</td><td>30.8 °C</td><td>32.1 °C</td><td>33.2 °C</td><td>33.2 °C</td><td>31.1 °C</td><td>30.2 °C</td><td>30.3 °C</td><td>29 °C</td><td>27.9 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.9 °C</td>
+        <td>25.3 °C</td><td>25.2 °C</td><td>25.2 °C</td><td>26.4 °C</td><td>25.1 °C</td><td>25 °C</td><td>24.9 °C</td><td>25.7 °C</td><td>27.4 °C</td><td>29.2 °C</td><td>30.8 °C</td><td>32.1 °C</td><td>33.2 °C</td><td>33.2 °C</td><td>31.1 °C</td><td>30.2 °C</td><td>30.3 °C</td><td>29 °C</td><td>27.9 °C</td><td>27 °C</td><td>26.8 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Patchy rain nearby
 </table>
 
 
-*Updated at: 2025-10-04T20:45:45Z*
+*Updated at: 2025-10-04T20:50:13Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
