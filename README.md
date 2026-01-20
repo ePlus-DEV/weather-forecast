@@ -21,11 +21,11 @@ Partly Cloudy
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly cloudy</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td><td width="200px">Clear </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>23.5 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>22.3 °C</td><td>22.1 °C</td><td>22.9 °C</td><td>30.1 °C</td><td>32.5 °C</td><td>32.7 °C</td><td>24.5 °C</td><td>24 °C</td><td>23.7 °C</td><td>23.9 °C</td><td>23.5 °C</td>
+        <td>23.5 °C</td><td>23.2 °C</td><td>23.2 °C</td><td>22.7 °C</td><td>22.5 °C</td><td>22.3 °C</td><td>22.1 °C</td><td>22.9 °C</td><td>28.4 °C</td><td>32.5 °C</td><td>32.7 °C</td><td>24.5 °C</td><td>24 °C</td><td>23.7 °C</td><td>23.9 °C</td><td>23.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -61,6 +61,6 @@ Partly Cloudy
 </table>
 
 
-*Updated at: 2026-01-20T04:38:46Z*
+*Updated at: 2026-01-20T05:08:58Z*
 
 ![Alt](https://repobeats.axiom.co/api/embed/7d451ae2cdef1648d2e14e5cc714356b2ebae209.svg "Repobeats analytics image")
